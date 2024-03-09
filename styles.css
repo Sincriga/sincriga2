@@ -1,0 +1,67 @@
+body{
+    background-color: grey
+    ;
+
+}
+#hero_section{
+    height: 40vh;
+    display: flex;}
+.sec1{
+
+    text-align: center;
+}    
+.sec2{
+    align-items: center;
+    text-align: center;
+}
+
+ch{
+    width:48%;
+    height:100%;
+    color: brown;
+}
+#fname{
+font-size:250%;
+text-align:center;
+text-align: center;
+}
+
+#name{
+    text-align:center;
+}
+#ch{
+    width:70%;
+    height: 150%;
+    border-radius:70%;
+    text-align:center;
+}
+#About-me{
+   text-align: center;
+   padding-top: 10%;
+   border-radius: 50;  
+   margin-top: 5% ;
+}
+#form{
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:'Courier New', Courier, monospace 50%;
+    margin-left: 5%;
+    border: radius 3px;
+}
+#contact{ 
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:'Courier New', Courier, monospace 50%;
+    margin-left: 25%;
+    border: radius 3% 3% ;
+    padding: 2%;
+    width: 50%;
+    border: 1px solid black;
+
+
+}
+   #po{
+    align-items: center;
+   } 

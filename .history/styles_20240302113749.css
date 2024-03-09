@@ -1,0 +1,37 @@
+body{
+    background-color: grey
+    ;
+
+}
+#hero_section{
+    height: 40vh;
+    display: flex;
+    align-items:center;
+}ch{
+    width:48%;
+    height:100%;
+    color: brown;
+}
+}
+#fname{
+font-size:250%;
+text-align:center;
+}
+]
+
+#name{
+    text-align:center;
+}
+}
+#ch{
+    width:70%
+    height:120%
+    border-radius:70%
+    text-items:center;
+}
+#About-me{
+   text-align: center;
+   padding-top: 180%;
+   margin-top: 2% ;
+}
+    

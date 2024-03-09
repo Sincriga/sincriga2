@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+
+}
+#hero_section{
+    height: 40vh;
+    display: flex;
+}
+    width:50%;
+    height:100%;
+    color: brown;
+
+}
+#fname{
+font-size:520%;
+}
+#name{
+    text-align:center;
+}
+#ch{
+    width:60%
+    height:220%
+}
